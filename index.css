@@ -17,13 +17,15 @@ h1 {
 }
 
 h2 {
-    color: #451c7a;
+    /* color: #451c7a; */
+    color: #590d22;
     font-size: 1.375rem;
     margin-top: 0;
 }
 
 h3 {
     font-size: 1.25rem;
+    color: #590d22;
 }
 
 p {
