@@ -68,7 +68,8 @@ a:active {
 .btn-dark {
     color: whitesmoke;
     /* background: #5f29a3; */
-    background: #c9184a;
+    /* background: #c9184a; */
+    background-color: #822faf;
 }
 
 .btn-mid {
@@ -101,7 +102,8 @@ footer {
 header, 
 .section-two {
     /* background-color: #5f29a3; */
-    background-color: #c9184a;
+    /* background-color: #c9184a; */
+    background-color: #822faf;
 }
 
 .section-two {
