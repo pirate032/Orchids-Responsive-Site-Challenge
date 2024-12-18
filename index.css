@@ -17,7 +17,6 @@ h1 {
 }
 
 h2 {
-    /* color: #451c7a; */
     color: #590d22;
     font-size: 1.375rem;
     margin-top: 0;
@@ -67,20 +66,15 @@ a:active {
 
 .btn-dark {
     color: whitesmoke;
-    /* background: #5f29a3; */
-    /* background: #c9184a; */
-    background-color: #822faf;
+    background-color: #c9184a;
 }
 
 .btn-mid {
-    /* color: #5f29a3;  */
     color: #c9184a;
-    /* background: #f0e0ff;  */
     background-color: #ffccd5;
 }
 
 .btn-light {
-    /* color: #5f29a3;  */
     color: #c9184a;
     background: whitesmoke;
 }
@@ -101,9 +95,7 @@ footer {
 
 header, 
 .section-two {
-    /* background-color: #5f29a3; */
-    /* background-color: #c9184a; */
-    background-color: #822faf;
+    background-color: #c9184a;
 }
 
 .section-two {
